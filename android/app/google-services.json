@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "222816076005",
+    "firebase_url": "https://jaiminstratspractical-default-rtdb.firebaseio.com",
+    "project_id": "jaiminstratspractical",
+    "storage_bucket": "jaiminstratspractical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222816076005:android:b64998c640c8b72917540c",
+        "android_client_info": {
+          "package_name": "com.example.jaimin_starts_practical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CEeQGihzRt2Q5wxnEYQIxBxvMfykCZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
